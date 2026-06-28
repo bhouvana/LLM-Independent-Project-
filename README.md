@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 📚 Large Language Models in Software Engineering
-
 ### *An Independent Research Study*
 
 Exploring how Large Language Models are transforming modern Software Engineering—from code generation and debugging to testing, DevOps, enterprise adoption, and autonomous software development.
