@@ -169,7 +169,3 @@ This repository is intended for educational and research purposes.
 Please cite or reference this work appropriately if you use it in your own research.
 
 ---
-
-## Author
-
-**Bhuvan V**
