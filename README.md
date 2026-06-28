@@ -191,6 +191,3 @@ Made with curiosity, research, and a passion for Software Engineering & Artifici
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
-
-```
-```
